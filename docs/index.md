@@ -17,5 +17,5 @@ features:
   - icon: https://gw.alipayobjects.com/zos/bmw-prod/d1ee0c6f-5aed-4a45-a507-339a4bfe076c/k7bjsocq_w144_h144.png
     title: 开发指南
     desc: 体系化整理，随时查阅具体技术细节，方便前端开发者日常开发
-footer: Open-source MIT Licensed | Copyright © 2025-present<br />Powered by weriss🍏
+footer: Open-source MIT Licensed | Copyright © 2025-present<br />Powered by weriss🍏🍏
 ---

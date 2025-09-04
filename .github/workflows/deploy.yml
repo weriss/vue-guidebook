@@ -38,6 +38,7 @@ jobs:
           personal_token: ${{ secrets.DEPLOY_TOKEN }}
           external_repository: weriss/weriss.github.io
           publish_branch: main  # 推送到weriss.github.io 的分支
-          publish_dir: ./dist
+          publish_dir: vue-guidebook/dist
+          destination_dir: vue-guidebook
           cname: weriss.github.io  # 可选，如果有自定义域名
           commit_message: 'Deploy vue-guidebook'

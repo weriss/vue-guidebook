@@ -5,7 +5,7 @@
 node 14
 npm 6
 vue 2
-🍏
+🍏🍏
 
 - **易混淆点**
   - [v-bind vs v-model](docs/overview/confuse)
