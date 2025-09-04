@@ -11,7 +11,7 @@ order: 3
 
 # nextTick
 
-> 阅读此章前假设已经理解 JavaScript 的 [事件循环机制](https://tsejx.github.io/JavaScript-Guidebook/core-modules/executable-code-and-execution-contexts/concurrency-model/event-loop.html)
+> 阅读此章前假设已经理解 JavaScript 的 [事件循环机制](https://weriss.github.io/JavaScript-Guidebook/core-modules/executable-code-and-execution-contexts/concurrency-model/event-loop.html)
 
 **用法**：在下次 DOM 更新循环结束之后执行延迟回调。在修改数据之后立即使用这个方法，获取更新后的 DOM。
 

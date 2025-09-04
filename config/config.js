@@ -15,9 +15,12 @@ const config = {
     null,
     {
       title: 'Github',
-      path: 'https://github.com/tsejx/vue-guidebook',
+      path: 'https://github.com/weriss/vue-guidebook',
     },
   ],
+  devServer: {
+    hot: true
+  }
 };
 
 if (process.env.NODE_ENV !== 'development') {
