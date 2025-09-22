@@ -1,4 +1,13 @@
-# 最佳实践
+---
+nav:
+  title: 生态
+  order: 4
+group:
+  title: Vuex
+  order: 2
+title: 最佳实践
+order: 3
+---
 
 ```js
 import { computed } from 'vue';
